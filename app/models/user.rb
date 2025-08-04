@@ -1,4 +1,4 @@
-#emil: string
+#email: string
 #password_digest: string
 
 #password: string virtual
